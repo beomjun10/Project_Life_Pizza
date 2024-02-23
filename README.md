@@ -5,7 +5,7 @@
 **총 8일** (2023.08.18 ~ 2023.08.25)
 
 ## ERD
-![image](https://github.com/beomjun10/Project_Life-Pizza/assets/133833092/8b0d9f6e-b4bd-4199-8271-290720ccd213)
+![image](https://github.com/beomjun10/Project_Life_Pizza/assets/133833092/f4142c49-d09f-4149-89bb-b1eaf8ede010)
 
 
 ### 🙋‍♂️ 멤버 구성
@@ -32,10 +32,10 @@
 ### 📄 주요 기능
 | 메인 페이지 | 회원 페이지 |
 |:--------:|:----------:|
-|![image](https://github.com/beomjun10/Project_Life-Pizza/assets/133833092/a51df4a3-cdb1-42cd-9e13-a209c33b0e98)|![image](https://github.com/beomjun10/Project_Life-Pizza/assets/133833092/b2e191b4-1004-4129-b177-8c58bd1b8b5f)|
+|![image](https://github.com/beomjun10/Project_Life_Pizza/assets/133833092/fabe653d-2725-4396-b3cb-4d8df4748022)|![image](https://github.com/beomjun10/Project_Life_Pizza/assets/133833092/3c893478-f916-438a-b6ee-cb5c9bf5c648)|
 |**상품 페이지**|**장바구니 페이지**|
-![image](https://github.com/beomjun10/Project_Life-Pizza/assets/133833092/34ca4a96-b39f-477b-8205-4eab61145298)|![image](https://github.com/beomjun10/Project_Life-Pizza/assets/133833092/d53da259-c0f4-46cc-9511-9aebd8068c6b)|
+![image](https://github.com/beomjun10/Project_Life_Pizza/assets/133833092/f5eb229d-0876-493f-b326-8b51862f42a7)|![image](https://github.com/beomjun10/Project_Life_Pizza/assets/133833092/22b59ad1-6d00-4b59-a62b-91ef8bc51658)|
 |**주문 페이지**|**게시판 카테고리**|
-![image](https://github.com/beomjun10/Project_Life-Pizza/assets/133833092/2740ef0c-5f20-47d4-ba35-3983fdcade29)|![image](https://github.com/beomjun10/Project_Life-Pizza/assets/133833092/72502280-54f3-4e44-bb4e-69752839d9b0)|
+![image](https://github.com/beomjun10/Project_Life_Pizza/assets/133833092/c3931c91-a802-4084-b190-ac117371b426)|![image](https://github.com/beomjun10/Project_Life_Pizza/assets/133833092/a01b7c6f-c034-483a-b0b7-baa271eda0fe)|
 |**게시판 페이지**|
-![image](https://github.com/beomjun10/Project_Life-Pizza/assets/133833092/648f695d-00aa-4fc7-a75e-0818b0b19ef5)
+![image](https://github.com/beomjun10/Project_Life_Pizza/assets/133833092/312bb811-f63a-4b9c-8105-5aeb866bb403)
